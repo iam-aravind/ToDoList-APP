@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ToDo.Test/obj
+/ToDo.Test/bin/Debug/net8.0
+/.vs/ToDo
+/ToDo/obj/ToDo.csproj.nuget.g.props
+/ToDo/obj/ToDo.csproj.nuget.dgspec.json
+/ToDo/obj/project.assets.json
+/ToDo/obj/project.nuget.cache
+/ToDo/obj/Debug/net8.0/staticwebassets
+*.json
+*.txt
+*.Up2Date
